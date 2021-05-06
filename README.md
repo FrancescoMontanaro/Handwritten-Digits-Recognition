@@ -14,4 +14,4 @@ The following image shows a summary of the model:
 
 <img width="470" alt="Schermata 2021-05-05 alle 21 55 31" src="https://user-images.githubusercontent.com/56433128/117201202-a9f19100-adec-11eb-9f48-b8412a2ba1de.png">
 
-The final model has been trained for **30 epochs** and has reached an **Accuracy of 0.9397** on the test set.
+The final model has been trained for **30 epochs** and has reached an **Accuracy of 0.9367** on the test set.
