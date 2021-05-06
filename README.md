@@ -1,8 +1,9 @@
 # Handwritten Digits Recognition
 
+This is a simple Project to recognize handwitten digits through a **Deep Learning Model**. 
+
 ![AfraidCompassionateAnemoneshrimp-size_restricted](https://user-images.githubusercontent.com/56433128/117266150-3cc61600-ae55-11eb-83d8-31b265bc6ce5.gif)
 
-This is a simple Project to recognize handwitten digits through a **Deep Learning Model**. 
 The Dataset used is the *MNIST* Dataset, composed by 60.000 labeled training images and 10.000 labeled test images.
 
 ![Images-generated-by-different-GAN-architectures-trained-on-MNIST-1-and-MNIST-2-The ppm](https://user-images.githubusercontent.com/56433128/117200445-cccf7580-adeb-11eb-97ab-01ebd94c1caf.png)
